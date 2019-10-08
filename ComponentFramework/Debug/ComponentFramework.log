@@ -1,0 +1,89 @@
+﻿  Body.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+  Simplex.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+  Debug.cpp
+  GameSceneManager.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+  Mesh.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+  Model0.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+  Main.cpp
+  MMath.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\VMath.h(51,15): warning C4244:  'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\VMath.h(56,18): warning C4244:  '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\VMath.h(56,52): warning C4244:  '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\VMath.h(56,90): warning C4244:  '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\MMath.cpp(278,65): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\MMath.cpp(279,65): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\MMath.cpp(280,65): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\MMath.cpp(281,65): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\MMath.cpp(282,65): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\MMath.cpp(283,65): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\MMath.cpp(284,65): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\MMath.cpp(285,65): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ObjLoader.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\MMath.cpp(286,65): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vector(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vector(19): message :  'std' 선언을 참조하십시오.
+  Primitive.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+  Scene.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+  Shader.cpp
+  Timer.cpp
+  Trackball.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+  VMath.cpp
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(137,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(275,13): error C2039:  'fabs': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  'std' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\Vector.h(372,12): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\VMath.h(51,15): warning C4244:  'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\VMath.h(56,18): warning C4244:  '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\VMath.h(56,52): warning C4244:  '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Window.cpp
+  코드를 생성하고 있습니다...
+D:\Humber Game Programming\Semester 3\C++\OpenGL\ComponentFramework3.0\ComponentFramework\VMath.h(56,90): warning C4244:  '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
